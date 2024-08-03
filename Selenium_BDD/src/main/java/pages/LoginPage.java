@@ -30,7 +30,7 @@ public class LoginPage {
 		js.executeScript("arguments[0].click();", LoginBtn);
 		 }
 	 public void enter_credentials() {
-		 enter_username("ravinangre@gmail.com");
-		 enter_password("gujar1311");
+		 enter_username("abc@gmail.com");
+		 enter_password("P@ssw0rdRn");
 		 }
 }
